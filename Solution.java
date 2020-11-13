@@ -16,8 +16,9 @@ public class Solution {
         int N = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
-        // Write code here 
+        // Write code here
         
+
         scanner.close();
     }
 }
